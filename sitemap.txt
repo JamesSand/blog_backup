@@ -1,9 +1,9 @@
-http://jamessand.github.io/link/index.html
 http://jamessand.github.io/2022/09/14/TheFifthSemester/
 http://jamessand.github.io/2022/09/05/LastWeek2022/
 http://jamessand.github.io/2022/08/28/GuangZhou2022/
 http://jamessand.github.io/2022/08/20/ChangSha2022/
 http://jamessand.github.io/2022/08/20/hello-world/
+http://jamessand.github.io/link/index.html
 http://jamessand.github.io/
 http://jamessand.github.io/tags/Travel/
 http://jamessand.github.io/tags/Diary/
