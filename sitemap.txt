@@ -1,5 +1,6 @@
-http://jamessand.github.io/2022/10/08/SemesterNote/
+http://jamessand.github.io/2022/12/10/20221210-restart-the-journey/
 http://jamessand.github.io/2022/11/09/rest-of-2022/
+http://jamessand.github.io/2022/10/08/SemesterNote/
 http://jamessand.github.io/2022/10/07/ResearchIntro/
 http://jamessand.github.io/2022/10/05/GiltOctober2022/
 http://jamessand.github.io/2022/09/14/TheFifthSemester/
@@ -10,6 +11,6 @@ http://jamessand.github.io/2022/08/20/ChangSha2022/
 http://jamessand.github.io/2022/08/20/hello-world/
 http://jamessand.github.io/link/index.html
 http://jamessand.github.io/
-http://jamessand.github.io/tags/Travel/
 http://jamessand.github.io/tags/Diary/
+http://jamessand.github.io/tags/Travel/
 http://jamessand.github.io/tags/Study/
