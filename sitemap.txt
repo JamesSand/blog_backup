@@ -1,5 +1,7 @@
-http://jamessand.github.io/2022/12/12/20221212-Statistical-Inference/
+http://jamessand.github.io/2022/12/16/20221215-Signal-Processing/
+http://jamessand.github.io/2022/12/14/20221214-Computer-Organization/
 http://jamessand.github.io/2022/12/10/20221210-restart-the-journey/
+http://jamessand.github.io/2022/12/12/20221212-Statistical-Inference/
 http://jamessand.github.io/2022/11/09/rest-of-2022/
 http://jamessand.github.io/2022/10/08/SemesterNote/
 http://jamessand.github.io/2022/10/07/ResearchIntro/
